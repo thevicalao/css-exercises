@@ -64,4 +64,5 @@ ul {
 .right-menu{
   display: flex;
   gap: 16px;
+  align-items: center;
 }
